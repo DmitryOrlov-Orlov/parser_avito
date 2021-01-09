@@ -1,0 +1,12 @@
+{
+  "name": "modulesapp",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "iconv-lite": "^0.6.2",
+    "request": "^2.88.2"
+  }
+}
